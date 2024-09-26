@@ -9,4 +9,4 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jansen-Gullifer/Azure-Network-Protocol)
 - <b>Active Directory </b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jansen-Gullifer/Azure-Network-Protocol)
+  - [On-premises Active Directory Deployed in the Cloud](https://github.com/Jansen-Gullifer/Deploying-Active-Directory)
