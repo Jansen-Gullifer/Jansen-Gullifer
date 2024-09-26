@@ -7,4 +7,4 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Jansen-Gullifer/OSticket-Configuration-)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jansen-Gullifer/OSticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jansen-Gullifer/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jansen-Gullifer/Azure-Network-Protocol)
